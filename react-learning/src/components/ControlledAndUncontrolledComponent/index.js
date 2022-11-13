@@ -1,0 +1,4 @@
+import ControlledAndUnControlledComponent from "./controlledAndUncontrolledComponent";
+
+
+export default ControlledAndUnControlledComponent;

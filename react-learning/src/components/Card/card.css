@@ -1,0 +1,10 @@
+.card {
+    height: 40%;
+    width: 15%;
+    border: 1px solid black;
+}
+
+.cardImg {
+    height: 30%;
+    width: 98%;
+}
